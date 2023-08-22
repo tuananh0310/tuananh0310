@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="100"/>
+</div>
+
 - 🔭 I’m currently working on The First One JSC
 - 🌱 I’m currently learning to become software engineer
 - 👯 I’m looking to collaborate on ...
