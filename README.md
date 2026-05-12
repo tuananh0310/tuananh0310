@@ -36,6 +36,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-- 🔭 I’m currently working on The First One JSC
+- 🔭 I’m currently working on FPT Smart Cloud
 - 💬 Ask me about some thing
 - ⚡ Fun fact: To become really good at any thing, you have practice, repeat practice, repeat until the technique be come intuitive
